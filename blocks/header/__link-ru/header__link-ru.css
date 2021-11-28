@@ -1,4 +1,4 @@
-.header__lang-link_ru {
+.header__link-ru {
   margin-right: 18px;
   font-family: Inter;
   font-style: normal;
@@ -8,11 +8,11 @@
   color: #FFFFFF;
   text-align: right;
 }
-.header__lang-link_ru:hover {
+.header__link-ru:hover {
   opacity: 0.8;
 }
 @media screen and (max-width: 540px) {
-  .header__lang-link_ru {
+  .header__link-ru {
     font-size: 20px;
     line-height: 111%;
   }
