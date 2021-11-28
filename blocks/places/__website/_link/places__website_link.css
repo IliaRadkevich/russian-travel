@@ -1,0 +1,11 @@
+.places__website_link {
+  color:#FFFFFF;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 122%;
+}
+.places__website_link:hover {
+  opacity: 0.8;
+}
