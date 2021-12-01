@@ -1,9 +1,9 @@
 .places__website-url {
   margin: 0 0 12px 0;
   color:#AAAAAA;
-  font-family: Inter;
+  font-family: 'Inter';
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 12px;
   line-height: 170%;
   letter-spacing: 0.2em;
