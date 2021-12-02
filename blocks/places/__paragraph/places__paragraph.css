@@ -8,6 +8,9 @@
   line-height: 163%;
   color: white;
 }
+.places__paragraph:last-child {
+  padding-bottom: 0px;
+}
 @media screen and (max-width: 1120px) {
   .places__paragraph {
     padding-bottom: 27px;
@@ -17,5 +20,10 @@
   .places__paragraph {
     padding-bottom: 25px;
     font-size: 16px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .places__paragraph {
+    margin: 0 16px 0 16px;
   }
 }

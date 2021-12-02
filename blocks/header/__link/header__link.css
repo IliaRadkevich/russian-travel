@@ -1,4 +1,4 @@
-.header__link-en {
+.header__link {
   text-decoration: none;
   font-family: 'Inter';
   font-style: normal;
@@ -7,12 +7,12 @@
   line-height: 117%;
   color: #FFFFFF;
   text-align: right;
-  }
-  .header__link-en:hover {
+}
+  .header__link:hover {
     opacity: 0.8;
   }
   @media screen and (max-width: 540px) {
-    .header__link-en {
+    .header__link {
       font-size: 20px;
       line-height: 111%;
     }
